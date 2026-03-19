@@ -1,0 +1,7 @@
+For testAlreadyAddedWord, the word would need to be added more than one time to verify correct functionality.
+
+When checking spelling, no words are added - how does it know that anything is spelled properly if it doesn't know any words?
+
+What is checkHyphenatedWord doing? How is it different from checkWord? The tests do not show me.
+
+Same question about the prefix: what are you checking exactly? What is proven by that test?
